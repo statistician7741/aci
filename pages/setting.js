@@ -1,0 +1,1 @@
+export default () => <div>Setting : Hello World!</div>
